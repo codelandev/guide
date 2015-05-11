@@ -3,7 +3,8 @@
 
 ## Guides
 - [Design](design/)
-- [HTML/CSS](html-css)
+- [HTML](html/)
+- [CSS](css/)
 - [Javascript](javascript/)
 - [Ruby](ruby/)
 
