@@ -7,6 +7,7 @@
 - [CSS](css/)
 - [Javascript](javascript/)
 - [Ruby](ruby/)
+- [GIT](misc/GIT.md)
 
 ## License
 
