@@ -4,7 +4,7 @@
 `config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }`
 
 ## Always include `staging.rb` on your environments
-```
+```ruby
 Rails.application.configure do
   config.action_mailer.default_url_options = { host: ENV['HOST_DOMAIN'] }
 
@@ -59,7 +59,7 @@ end
 
 ## Remember to configure SendGrid on your `environment.rb`
 
-```
+```ruby
 # Load the Rails application.
 require File.expand_path('../application', __FILE__)
 
@@ -84,7 +84,7 @@ Always try to use `resources :examples` maximum as you can!
 
 You will probably have something like this:
 
-```
+```yaml
 staging:
   <<: *default
   aws_access_key: <%= ENV["AWS_ACCESS_KEY"] %>
@@ -101,7 +101,7 @@ staging:
 
 ## Configure carrierwave initializer
 
-```
+```ruby
 CarrierWave.configure do |config|
   config.storage = (Rails.env.production? || Rails.env.staging?) ? :fog : :file
   config.enable_processing = !Rails.env.test?
@@ -123,7 +123,7 @@ end
 
 ## Remember to create locales for your models/enums
 
-```
+```yaml
 pt-BR:
   activerecord:
     models:
