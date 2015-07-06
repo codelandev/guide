@@ -4,7 +4,7 @@ This is an example of how you should organize your files inside the respective f
 To not make this readme so extense I'll move each file example to another readme file and link on respective titles. I put just the folders/files that aren't default from new projects.
 Let's say you are using the default CODELAND project generator, you will have something like this:
 
-### [Controllers](https://github.com/codelandev/guide/blob/master/ruby/controller_example.md)
+### [Controllers](https://github.com/codelandev/guide/blob/master/ruby-and-rails/controller_example.md)
 
 ```
 /app
@@ -97,7 +97,7 @@ Let's say you are using the default CODELAND project generator, you will have so
 ....spec_helper.rb
 ```
 
-### [Procfile]()
+### [Procfile](https://devcenter.heroku.com/articles/procfile)
 
 ```
 Procfile # always have a Procfile on your project
