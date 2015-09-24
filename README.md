@@ -2,6 +2,9 @@
 > Keep your code bealtiful
 
 ## Guides
+- Process
+  * [Startups](process/startup.md)
+  * [Continuous Development](process/continuous development.md)
 - [Design](design/)
 - [HTML](html/)
 - [CSS](css/)
