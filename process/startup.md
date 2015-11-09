@@ -77,10 +77,11 @@ It can be a industrial secret, inside information, pattent, algorithm, large net
 > A real unfair advantage is something that cannot be easily copied or bought. - Jason Cohen
 
 #### Hyphotesis
-Write down the product hyphotesis that you are trying to solve with the MVP.
+Write down, in a list, the product core hyphotesis that you are trying to solve with the MVP. Follow this example: <br>
+I believe that **[target market]** are **[going to / use the solution]** because **[reason]**.
 
 #### Pitch
-Each one involved in the process should do this in a paper. Then try to figure out one that resumes all of them.
+Each one involved in the process should do as the follow example in a paper. Then combine all into one that resumes everything.
 
 For the **[final client]**, <br>
 which **[problem that needs to be solved]**, <br>
